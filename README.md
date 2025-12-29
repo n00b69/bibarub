@@ -4,3 +4,6 @@ open source things made by [BIBARUB](https://https://github.com/bibarub) that he
 ## [sta](https://github.com/n00b69/sta)
 
 ## [partlist](https://github.com/n00b69/partlist)
+
+## [usbhostmodenative](https://github.com/n00b69/usbhostmode)
+
